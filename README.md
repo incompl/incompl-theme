@@ -1,7 +1,3 @@
-# incompl-theme
-
-A Sublime theme that uses color warmth to communicate hierarcy.
-
 ![Screen shot](http://i.imgur.com/ur7oOwj.png)
 
 ## How to install
