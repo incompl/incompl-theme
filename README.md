@@ -1,4 +1,4 @@
-## About
+## incompl-theme
 
 I wanted a color theme that is useful and not just pretty. When I am quickly scanning a file there are certain things I am looking for: function names, mostly. I made those stand out more using a warmer color (orange) so you can spot them easily when scanning. The other colors differentiate different types of code to make it easier to follow code flow, but the colors are similar so they're not fightning for attention.
 
